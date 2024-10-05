@@ -4,7 +4,7 @@
 
 ## About Me
 
-- 👀 I’m interested in AI, Machine Learning, Computer Vision, and Open Source contributions.
+- 👀 I’m interested in AI, Machine Learning, Computer Vision and Open Source contributions.
 - 🌱 I’m currently learning advanced AI techniques and contributing to open-source projects.
 - 💞️ I’m looking to collaborate on AI research projects and innovative tech solutions.
 - 📫 How to reach me: [amit.9999104696@gmail.com](mailto:amit.9999104696@gmail.com)
